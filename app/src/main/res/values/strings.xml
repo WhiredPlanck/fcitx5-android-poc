@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Fcitx5Test</string>
+    <string name="toggle_cn">0</string>
+    <string name="toggle_cn_cand">1</string>
+    <string name="toggle_en_lower">2</string>
+    <string name="toggle_en_upper">3</string>
+    <string name="toggle_en_sym1">4</string>
+    <string name="toggle_en_sym2">5</string>
+    <string name="toggle_smiley">6</string>
+    <string name="toggle_enter_go">7</string>
+    <string name="toggle_enter_search">8</string>
+    <string name="toggle_enter_send">9</string>
+    <string name="toggle_enter_next">10</string>
+    <string name="toggle_enter_done">11</string>
+    <string name="toggle_row_cn">12</string>
+    <string name="toggle_row_en">13</string>
+    <string name="toggle_row_uri">14</string>
+    <string name="toggle_row_emailaddress">15</string>
+    <string name="toggle_phone_sym">3</string>
 </resources>
